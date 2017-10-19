@@ -24,6 +24,7 @@ ua-spoof: iobit.com false
 ua-spoof: mozilla.org false
 ua-spoof: yandex.com false
 * * * block
+* * cookie block
 * * css allow
 * * frame block
 * * image allow
@@ -167,6 +168,7 @@ jd.com p.3.cn script allow
 jd.com www.3.cn script allow
 kanfanba.com cdn.kanfanba.cn script allow
 kanfanba.com dn-staticfile.qbox.me script allow
+linkedin.com linkedin.com cookie  allow
 linkedin.com static.licdn.com script allow
 live.com auth.gfx.ms script allow
 live.com az725175.vo.msecnd.net script allow
@@ -299,6 +301,7 @@ twitch.tv web-cdn.ttvnw.net script allow
 twitter.com abs.twimg.com script allow
 twitter.com assets.pscp.tv script allow
 twitter.com ton.twimg.com script allow
+twitter.com twitter.com cookie allow
 twitter.com video.twimg.com media allow
 twitter.com video.twimg.com xhr allow
 twitter.com www.pscp.tv frame allow
