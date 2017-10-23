@@ -57,6 +57,7 @@ ua-spoof: yandex.com false
 163.com ursdoccdn.nosdn.127.net script allow
 163.com wr.da.netease.com script allow
 acfun.cn cdn.aixifan.com script allow
+aimp.ru aimp.ru cookie allow
 aliexpress.com i.alicdn.com script allow
 alipay.com a.alipayobjects.com script allow
 alipay.com as.alipayobjects.com script allow
